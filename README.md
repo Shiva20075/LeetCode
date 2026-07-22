@@ -22,13 +22,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shiva20075/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Shiva20075/LeetCode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Shiva20075/LeetCode/tree/master/0078-subsets) |
 ## Array
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Shiva20075/LeetCode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Shiva20075/LeetCode/tree/master/0078-subsets) |
 | [0875-koko-eating-bananas](https://github.com/Shiva20075/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/Shiva20075/LeetCode/tree/master/0875-koko-eating-bananas) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Shiva20075/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
