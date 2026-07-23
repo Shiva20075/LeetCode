@@ -43,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Shiva20075/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/Shiva20075/LeetCode/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
