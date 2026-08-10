@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Shiva20075/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shiva20075/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/Shiva20075/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/Shiva20075/LeetCode/tree/master/0146-lru-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Shiva20075/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Shiva20075/LeetCode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Shiva20075/LeetCode/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/Shiva20075/LeetCode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/Shiva20075/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -140,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shiva20075/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Shiva20075/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Shiva20075/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
