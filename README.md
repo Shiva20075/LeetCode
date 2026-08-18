@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Shiva20075/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Shiva20075/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shiva20075/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/Shiva20075/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Shiva20075/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Shiva20075/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Shiva20075/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shiva20075/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/Shiva20075/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Shiva20075/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Shiva20075/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Shiva20075/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shiva20075/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/Shiva20075/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Shiva20075/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shiva20075/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shiva20075/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Shiva20075/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/Shiva20075/LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
