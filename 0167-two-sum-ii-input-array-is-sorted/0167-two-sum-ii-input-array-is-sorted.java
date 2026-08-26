@@ -7,17 +7,15 @@ class Solution {
             int needed = target - numbers[left];
 
             if (numbers[right] == needed) {
+                
                 int[] ans = new int[2];
-
                 ans[0] = left + 1;
                 ans[1] = right + 1;
-
                 return ans;
-            }
-            else if (numbers[right] > needed) {
+
+            }else if (numbers[right] > needed) {
                 right--;
-            }
-            else {
+            }else {
                 left++;
             }
         }
