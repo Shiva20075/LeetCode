@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shiva20075/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shiva20075/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/Shiva20075/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Shiva20075/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/Shiva20075/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shiva20075/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shiva20075/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/Shiva20075/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shiva20075/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shiva20075/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
