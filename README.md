@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shiva20075/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shiva20075/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shiva20075/LeetCode/tree/master/0022-generate-parentheses) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shiva20075/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shiva20075/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shiva20075/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Shiva20075/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/Shiva20075/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Shiva20075/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/Shiva20075/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shiva20075/LeetCode/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shiva20075/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
