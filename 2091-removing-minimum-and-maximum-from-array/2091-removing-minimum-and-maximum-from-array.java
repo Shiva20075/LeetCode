@@ -43,7 +43,7 @@ class Solution {
     }
 
     public int fromBothSides(int[] nums) {
-        
+
         int minIndex = 0;
         int maxIndex = 0;
 
@@ -66,18 +66,18 @@ class Solution {
 
     public int minimumDeletions(int[] nums) {
 
-        int first = fromFront(nums);
-        int second = fromBack(nums);
-        int third = fromBothSides(nums);
+        int front = fromFront(nums);
+        int back = fromBack(nums);
+        int both = fromBothSides(nums);
 
-        if (first < second && first < third) {
-            return first;
+        if (front < back && front < both) {
+            return front;
         }
 
-        if (second < third) {
-            return second;
+        if (back < both) {
+            return back;
         }
 
-        return third;
+        return both;
     }
 }
