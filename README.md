@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0577-employee-bonus](https://github.com/Shiva20075/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Shiva20075/LeetCode/tree/master/0584-find-customer-referee) |
+| [1527-patients-with-a-condition](https://github.com/Shiva20075/LeetCode/tree/master/1527-patients-with-a-condition) |
 ## Matrix
 |  |
 | ------- |
