@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Shiva20075/LeetCode/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/Shiva20075/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shiva20075/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [0994-rotting-oranges](https://github.com/Shiva20075/LeetCode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shiva20075/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Shiva20075/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1288-remove-covered-intervals](https://github.com/Shiva20075/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Shiva20075/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shiva20075/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Shiva20075/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Shiva20075/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Shiva20075/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Simulation
 |  |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Shiva20075/LeetCode/tree/master/0733-flood-fill) |
 | [0965-univalued-binary-tree](https://github.com/Shiva20075/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiva20075/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Shiva20075/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Shiva20075/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shiva20075/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
