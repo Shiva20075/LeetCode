@@ -1,46 +1,56 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-
-        int max = Integer.MIN_VALUE;
+        
+        int min = piles[0];
+        int max = piles[0];
 
         for (int i = 0; i < piles.length; i++){
-            if(piles[i] > max){
+
+            if (piles[i] > max){
                 max = piles[i];
             }
+
+            if (piles[i] < min){
+                min = piles[i];
+            }
+            
         }
 
-       int ans =  findk(piles,1,max,h);
-       return ans;
+        int k = findSpeed(piles,h,min,max);
+        return k;
+        
     }
 
-    public int findk(int[] piles,int min,int max,int h){
-        int l = min;
-        int r = max;
+    public int findSpeed(int[] piles,int h,int min,int max){
+
+        int low = 1;
+        int high = max;
         int ans = 0;
 
-        while (l <= r){
-            int mid = (l + r)/2;
-            int temp = checkK(mid,h,piles);
+        while (low <= high){
 
-            if (temp > h){
-                l = mid + 1;
-            }
+            int mid = (low + high)/2;
 
-            if (temp <= h){
+            int k = findK(low,high,mid,h,piles);
+
+            if ( k <= h){
                 ans = mid;
-                r = mid - 1;
+                high = mid - 1;
             }
 
+            if (k > h){
+                low  = mid + 1;
+            }
         }
 
         return ans;
     }
 
-    public int checkK(int mid,int h,int[] arr){
-        int rs = 0;
-        for (int i = 0; i < arr.length; i++){
-            rs += Math.ceil((double) arr[i]/mid);
+    public int findK(int low , int hight,int mid,int h,int[] piles){
+        int temp = 0;
+        for (int i = 0; i < piles.length; i++){
+            temp += Math.ceil((double) piles[i]/mid);
         }
-        return rs;
+        return temp;
     }
 }
