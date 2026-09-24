@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Shiva20075/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shiva20075/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shiva20075/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shiva20075/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Shiva20075/LeetCode/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/Shiva20075/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3904-smallest-stable-index-ii](https://github.com/Shiva20075/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shiva20075/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shiva20075/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shiva20075/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shiva20075/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3895-count-digit-appearances](https://github.com/Shiva20075/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/Shiva20075/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Heap (Priority Queue)
