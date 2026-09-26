@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shiva20075/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shiva20075/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shiva20075/LeetCode/tree/master/0022-generate-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shiva20075/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shiva20075/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Shiva20075/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shiva20075/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Shiva20075/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shiva20075/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shiva20075/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shiva20075/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shiva20075/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Shiva20075/LeetCode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Shiva20075/LeetCode/tree/master/0217-contains-duplicate) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiva20075/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shiva20075/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3731-find-missing-elements](https://github.com/Shiva20075/LeetCode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/Shiva20075/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Math
