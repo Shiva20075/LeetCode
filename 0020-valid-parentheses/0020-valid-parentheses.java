@@ -16,13 +16,19 @@ class Solution {
                 if (s.charAt(i) == ')' && S.peek() == '(') {
 
                     S.pop();
-                    
+
                 } else if (s.charAt(i) == '}' && S.peek() == '{') {
+
                     S.pop();
+
                 } else if (s.charAt(i) == ']' && S.peek() == '[') {
+
                     S.pop();
+
                 } else {
+
                     return false;
+                    
                 }
                 
             }
