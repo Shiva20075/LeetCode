@@ -15,21 +15,24 @@ class Solution {
             return head;
         }
 
-        ListNode dummy = new ListNode(-1);
-        dummy.next = head;
+        while (head != null && head.val == val ){
+            head = head.next;
+        }
+
         ListNode curr = head;
-        ListNode prev = dummy;
+        ListNode prev = null;
 
-        while (curr != null){
-            ListNode nxt = curr.next;
+        while(curr != null){
+            ListNode next = curr.next;
 
-            if (curr.val == val){
-                prev.next = nxt;
-            } else {
+            if(curr.val == val){
+                prev.next = next;
+            }else{
                 prev = curr;
             }
-            curr = nxt;
+            curr = next;
         }
-        return dummy.next;
+
+        return head;
     }
 }
