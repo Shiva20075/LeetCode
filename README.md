@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shiva20075/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shiva20075/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shiva20075/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Shiva20075/LeetCode/tree/master/0268-missing-number) |
 | [0503-next-greater-element-ii](https://github.com/Shiva20075/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Shiva20075/LeetCode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shiva20075/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -98,12 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shiva20075/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shiva20075/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Shiva20075/LeetCode/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/Shiva20075/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Shiva20075/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shiva20075/LeetCode/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/Shiva20075/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Shiva20075/LeetCode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shiva20075/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shiva20075/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Shiva20075/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shiva20075/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiva20075/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Shiva20075/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shiva20075/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Shiva20075/LeetCode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Shiva20075/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Shiva20075/LeetCode/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiva20075/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shiva20075/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3731-find-missing-elements](https://github.com/Shiva20075/LeetCode/tree/master/3731-find-missing-elements) |
@@ -172,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shiva20075/LeetCode/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/Shiva20075/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shiva20075/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shiva20075/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shiva20075/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
