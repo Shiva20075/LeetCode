@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shiva20075/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Shiva20075/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Shiva20075/LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shiva20075/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Shiva20075/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Shiva20075/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/Shiva20075/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shiva20075/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shiva20075/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shiva20075/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Shiva20075/LeetCode/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/Shiva20075/LeetCode/tree/master/0875-koko-eating-bananas) |
