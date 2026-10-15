@@ -19,7 +19,7 @@ class Solution {
         int[][] maxDiff = new int[n][m];
 
         for (int[] row : maxDiff) {
-            java.util.Arrays.fill(row, Integer.MAX_VALUE);
+            Arrays.fill(row, Integer.MAX_VALUE);
         }
 
         PriorityQueue<Pair> pq = new java.util.PriorityQueue<>((a, b) -> Integer.compare(a.diff, b.diff));
