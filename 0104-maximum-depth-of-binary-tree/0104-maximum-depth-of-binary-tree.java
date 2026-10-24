@@ -14,33 +14,32 @@
  * }
  */
 class Solution {
-    int MaxCount = 0;
+
+    int maxDepth = 0;
     public int maxDepth(TreeNode root) {
 
-        if (root == null) {
+        if (root == null){
             return 0;
         }
-        int count = 0;
-        findMaxDepth(root, 1);
+        
+        int depth;
+        findDepth(root,1);
+        return maxDepth;
 
-        return MaxCount;
     }
 
-    public void findMaxDepth(TreeNode root, int count) {
+    public void findDepth(TreeNode root, int depth){
 
-        if (root == null) {
+        if (root == null){
             return;
         }
 
-        if (root.left != null || root.right != null) {
-            count++;
+
+        if (maxDepth < depth){
+            maxDepth = depth;
         }
 
-        if (count > MaxCount) {
-            MaxCount = count;
-        }
-
-        findMaxDepth(root.left, count);
-        findMaxDepth(root.right, count);
+        findDepth(root.left,depth+1);
+        findDepth(root.right,depth+1);
     }
 }
