@@ -1,6 +1,3 @@
-
-import java.util.*;
-
 class Pair {
     int x;
     int y;
@@ -23,7 +20,7 @@ class Solution {
 
                 if (!b[i][j] && grid[i][j] != 0) {
 
-                    int sum = grid[i][j];
+                    long sum = grid[i][j];
                     q.add(new Pair(i, j));
                     b[i][j] = true;
 
@@ -31,14 +28,14 @@ class Solution {
 
                         Pair p = q.poll();
 
-                        if (p.x - 1 >= 0 &&!b[p.x - 1][p.y] &&grid[p.x - 1][p.y] != 0) {
+                        if (p.x - 1 >= 0 &&!b[p.x - 1][p.y] && grid[p.x - 1][p.y] != 0) {
 
                             b[p.x - 1][p.y] = true;
                             sum += grid[p.x - 1][p.y];
                             q.add(new Pair(p.x - 1, p.y));
                         }
 
-                        if (p.x + 1 < grid.length &&!b[p.x + 1][p.y] &&grid[p.x + 1][p.y] != 0) {
+                        if (p.x + 1 < grid.length &&!b[p.x + 1][p.y] && grid[p.x + 1][p.y] != 0) {
 
                             b[p.x + 1][p.y] = true;
                             sum += grid[p.x + 1][p.y];
