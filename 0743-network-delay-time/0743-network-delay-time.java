@@ -1,69 +1,70 @@
-import java.util.*;
-
 class Pair {
-    int u;
-    int t;
 
-    Pair(int u, int t) {
-        this.u = u;
-        this.t = t;
+    int node;
+    int weight;
+
+    Pair(int node,int weight) {
+        this.node = node;
+        this.weight = weight;
     }
 }
 
 class Solution {
     public int networkDelayTime(int[][] times, int n, int k) {
 
-        List<List<Pair>> adj = new ArrayList<>();
-        int[] arr = new int[n + 1];
-        Arrays.fill(arr, Integer.MAX_VALUE);
+        ArrayList<ArrayList<Pair>> adj = new ArrayList<>();
+        int[] dist = new int[n+1];
+        Arrays.fill(dist, Integer.MAX_VALUE);
+        dist[k] = 0;
 
-        for (int i = 0; i <= n; i++) {
+       for (int i = 0; i <= n; i++) {
             adj.add(new ArrayList<>());
-        }
+       }
 
-        for (int[] a : times) {
+       for (int i = 0; i < times.length; i++) {
+        
+            int u = times[i][0];
+            int v = times[i][1];
+            int w = times[i][2];
 
-            int u = a[0];
-            int v = a[1];
-            int t = a[2];
+            adj.get(u).add(new Pair(v,w));
+       }
 
-            adj.get(u).add(new Pair(v, t));
-        }
-
-        PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> Integer.compare(a.t, b.t));
-        arr[k] = 0;
-        pq.add(new Pair(k, 0));
+        PriorityQueue<Pair> pq = new PriorityQueue<>((a,b) -> Integer.compare(a.weight,b.weight));
+        pq.add(new Pair(k,0));
 
         while (!pq.isEmpty()) {
-
+            
             Pair p = pq.poll();
-            int u = p.u;
-            int t = p.t;
+            int curr = p.node;
+            int weight = p.weight;
 
-            if (t > arr[u]) {
+            if (weight > dist[curr]) {
                 continue;
             }
 
-            for (Pair next : adj.get(u)) {
-                
-                int v = next.u;
-                int wt = next.t;
+            for (Pair neighbor : adj.get(curr)) {
 
-                if (arr[u] + wt < arr[v]) {
-                    arr[v] = arr[u] + wt;
-                    pq.add(new Pair(v, arr[v]));
+                int neig = neighbor.node;
+                int nWeight = neighbor.weight;
+
+                if (weight + nWeight < dist[neig]){
+                    dist[neig] = weight + nWeight;
+                    pq.add(new Pair(neig,dist[neig]));
                 }
+                
             }
         }
 
         int max = 0;
 
         for (int i = 1; i <= n; i++) {
-            if (arr[i] == Integer.MAX_VALUE) {
+
+            if (dist[i] == Integer.MAX_VALUE) {
                 return -1;
             }
 
-            max = Math.max(max, arr[i]);
+            max = Math.max(max, dist[i]);
         }
 
         return max;
