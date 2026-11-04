@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shiva20075/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shiva20075/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/Shiva20075/LeetCode/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shiva20075/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shiva20075/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Backtracking
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shiva20075/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shiva20075/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/Shiva20075/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shiva20075/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shiva20075/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Shiva20075/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shiva20075/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Shiva20075/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Shiva20075/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Shiva20075/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shiva20075/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0965-univalued-binary-tree](https://github.com/Shiva20075/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiva20075/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Shiva20075/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Shiva20075/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Shiva20075/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Shiva20075/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shiva20075/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0965-univalued-binary-tree](https://github.com/Shiva20075/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shiva20075/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Shiva20075/LeetCode/tree/master/0994-rotting-oranges) |
@@ -489,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Shiva20075/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Shiva20075/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Shiva20075/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shiva20075/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shiva20075/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
@@ -516,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Shiva20075/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shiva20075/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shiva20075/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
 |  |
