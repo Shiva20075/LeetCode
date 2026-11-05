@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/Shiva20075/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Shiva20075/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1631-path-with-minimum-effort](https://github.com/Shiva20075/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Shiva20075/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shiva20075/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shiva20075/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Shiva20075/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Shiva20075/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Shiva20075/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shiva20075/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Shiva20075/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Shiva20075/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Shiva20075/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Shiva20075/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shiva20075/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Shiva20075/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shiva20075/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/Shiva20075/LeetCode/tree/master/1514-path-with-maximum-probability) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Shiva20075/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shiva20075/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
