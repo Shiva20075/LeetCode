@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shiva20075/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shiva20075/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Shiva20075/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
+| [3110-score-of-a-string](https://github.com/Shiva20075/LeetCode/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shiva20075/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shiva20075/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
