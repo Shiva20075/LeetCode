@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/Shiva20075/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1514-path-with-maximum-probability](https://github.com/Shiva20075/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shiva20075/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2924-find-champion-ii](https://github.com/Shiva20075/LeetCode/tree/master/2924-find-champion-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shiva20075/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
