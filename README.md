@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Shiva20075/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shiva20075/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shiva20075/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shiva20075/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shiva20075/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Shiva20075/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shiva20075/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/Shiva20075/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shiva20075/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shiva20075/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shiva20075/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shiva20075/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shiva20075/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
