@@ -2,49 +2,52 @@ class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
 
         List<List<Integer>> adj = new ArrayList<>();
-        Set<Integer> s = new HashSet<>();
         boolean b[] = new boolean[numCourses];
+        boolean p[] = new boolean[numCourses];
 
         for (int i = 0; i < numCourses; i++) {
             adj.add(new ArrayList<>());
         }
 
-        for (int[] pair : prerequisites) {
+        for (int i = 0; i < prerequisites.length; i++) {
 
-            int a = pair[0];
-            int c = pair[1];
-            adj.get(c).add(a);
+            int u = prerequisites[i][0];
+            int v = prerequisites[i][1];
+
+            adj.get(v).add(u);
         }
 
-        for (int i = 0; i < adj.size(); i++) {
-            if (findCycle(adj, b, i, s)) {
-                return false;
+        for (int i = 0; i < numCourses; i++) {
+
+            if (!b[i]) {
+                if (dfs(i, adj, b, p)) {
+                    return false;
+                }
             }
         }
 
         return true;
     }
 
-    public boolean findCycle(List<List<Integer>> adj, boolean b[], int curr, Set<Integer> s) {
+    public boolean dfs(int i, List<List<Integer>> adj,boolean b[], boolean p[]) {
 
-        b[curr] = true;
-        s.add(curr);
+        b[i] = true;
+        p[i] = true;
 
-        for (int node : adj.get(curr)) {
+        for (int neib : adj.get(i)) {
 
-            if (s.contains(node)) {
-                return true;
-            }
+            if (!b[neib]) {
 
-            if (!b[node]) {
-                if (findCycle(adj, b, node, s)) {
+                if (dfs(neib, adj, b, p)) {
                     return true;
                 }
+
+            } else if (p[neib]) {
+                return true;
             }
         }
 
-        s.remove(curr);
+        p[i] = false;
         return false;
-
     }
 }
