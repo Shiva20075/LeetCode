@@ -134,12 +134,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shiva20075/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shiva20075/LeetCode/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Shiva20075/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Shiva20075/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shiva20075/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Shiva20075/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Shiva20075/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0342-power-of-four](https://github.com/Shiva20075/LeetCode/tree/master/0342-power-of-four) |
 ## Database
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shiva20075/LeetCode/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/Shiva20075/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Shiva20075/LeetCode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shiva20075/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shiva20075/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shiva20075/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
