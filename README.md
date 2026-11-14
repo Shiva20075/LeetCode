@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/Shiva20075/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [3110-score-of-a-string](https://github.com/Shiva20075/LeetCode/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shiva20075/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3941-password-strength](https://github.com/Shiva20075/LeetCode/tree/master/3941-password-strength) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shiva20075/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Shiva20075/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shiva20075/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3731-find-missing-elements](https://github.com/Shiva20075/LeetCode/tree/master/3731-find-missing-elements) |
+| [3941-password-strength](https://github.com/Shiva20075/LeetCode/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/Shiva20075/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
