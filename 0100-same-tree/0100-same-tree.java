@@ -15,31 +15,36 @@
  */
 class Solution {
 
-    boolean result = true;
+    boolean isSame = true;
 
     public boolean isSameTree(TreeNode p, TreeNode q) {
-
-        check(p, q);
-        return result;
-
-    }
-        public void check(TreeNode root1, TreeNode root2) {
-
-        if (root1 == null && root2 == null){
-            return;
-        }
-
-        if (root1 == null || root2 == null) {
-            result = false;
-            return;
-        }
         
-        if (root1.val != root2.val) {
-            result = false;
+        dfs(p,q);
+
+        if (isSame) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    public void dfs (TreeNode p,TreeNode q){
+
+        if (p == null && q == null){
             return;
         }
 
-        check(root1.left, root2.left);
-        check(root1.right, root2.right);
+        if (p == null || q == null) {
+            isSame = false;
+            return;
+        }
+
+        if (p.val != q.val) {
+            isSame = false;
+            return;
+        }
+
+        dfs(p.left,q.left);
+        dfs(p.right,q.right);
     }
 }
