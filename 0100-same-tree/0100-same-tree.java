@@ -14,33 +14,40 @@
  * }
  */
 class Solution {
-
-    boolean isSame = true;
-
     public boolean isSameTree(TreeNode p, TreeNode q) {
         
-        dfs(p,q);
+        Queue<TreeNode> pq = new LinkedList<>();
+        pq.add(p);
+        pq.add(q);
 
-        return isSame;
-    }
+        while (!pq.isEmpty()) {
 
-    public void dfs (TreeNode p,TreeNode q){
+            int size = pq.size();
 
-        if (p == null && q == null){
-            return;
+            for (int i = 0; i < size; i++) {
+
+                TreeNode p1 = pq.poll();
+                TreeNode q1 = pq.poll();
+
+                if (p1 == null && q1 == null) {
+                    break;
+                }
+
+                if (p1 == null || q1 == null) {
+                    return false;
+                }
+
+                if (p1.val != q1.val) {
+                    return false;
+                }
+
+                pq.add(p1.left);
+                pq.add(q1.left);
+                pq.add(p1.right);
+                pq.add(q1.right);
+            }
         }
 
-        if (p == null || q == null) {
-            isSame = false;
-            return;
-        }
-
-        if (p.val != q.val) {
-            isSame = false;
-            return;
-        }
-
-        dfs(p.left,q.left);
-        dfs(p.right,q.right);
+        return true;
     }
 }
