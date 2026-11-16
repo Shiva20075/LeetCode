@@ -21,11 +21,7 @@ class Solution {
         
         dfs(p,q);
 
-        if (isSame) {
-            return true;
-        } else {
-            return false;
-        }
+        return isSame;
     }
 
     public void dfs (TreeNode p,TreeNode q){
